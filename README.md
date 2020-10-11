@@ -13,5 +13,3 @@ python setup.py
 
 ### then click on yes
 
-# IMPORTANT
-only work with .txt file
