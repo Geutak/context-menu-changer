@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\*\shell\lire ce fichier\Command]
+@="C:\\Users\\thoma\\OneDrive\\Documents\\Downloads\\bat_file.bat lu %1"
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\*\shell\verifier ce fichier\Command]
+@="C:\\Users\\thoma\\OneDrive\\Documents\\Downloads\\bat_file.bat vérifié %1"
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\*\shell\signer ce document\Command]
+@="C:\\Users\\thoma\\OneDrive\\Documents\\Downloads\\bat_file.bat signé %1"
