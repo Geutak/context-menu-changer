@@ -14,4 +14,4 @@ python setup.py
 ### then click on yes
 
 # IMPORTANT
-only work in .txt file
+only work with .txt file
