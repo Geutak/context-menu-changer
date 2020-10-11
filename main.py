@@ -6,7 +6,7 @@ filename = sys.argv[2]
 action = sys.argv[1]
 
 a = list(filename)
-index = filename.find(".txt")
+index = filename.find(".")
 a.insert(index," [{}]".format(action))
 newfilename=""
 for element in a:
