@@ -3,7 +3,7 @@
 context menu changer is a python script who add fonction to context menu in windows explorer (read,sign and verif):
 
 example:
-![](https://zupimages.net/up/20/42/jlnb.png)
+![](https://zupimages.net/up/20/42/cvxc.png)
 then
 ![](https://zupimages.net/up/20/42/0e1l.png)
 
@@ -20,3 +20,11 @@ python setup.py
 
 ### then click on yes
 
+## how to uninstall:
+
+```shell
+cd context-menu-changer
+```
+```shell
+python context-menu-changer.py -uninstall
+```
