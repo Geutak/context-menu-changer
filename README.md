@@ -1,6 +1,6 @@
 # context-menu-changer
 
-context menu changer is a python script who add fonction to context menu in windows explorer (read,sign and verif):
+context menu changer is a python script who add function to context menu in windows explorer (read,sign and verif):
 
 example:
 ![](https://zupimages.net/up/20/42/cvxc.png)
