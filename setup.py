@@ -12,7 +12,7 @@ reg_file.write(reg_contenu)
 reg_file.close()
 bat_file = open("bat_file.bat","w")
 
-bat_contenu="@echo off\npython {}\\main.py %1 %2".format(directory)
+bat_contenu="@echo off\npython {}\\context-menu-changer.py %1 %2".format(directory)
 
 bat_file.write(bat_contenu)
 bat_file.close()
